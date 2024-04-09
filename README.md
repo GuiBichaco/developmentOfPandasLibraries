@@ -1,4 +1,4 @@
-# developmentOfPandasLibraries
+Development Of Pandas Libraries
 This work was developed with Jupyter NoteBook with Python Pandas, based on the documentation below:
 
 Documentation 1 - 
